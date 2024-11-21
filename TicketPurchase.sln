@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketPurchase", "TicketPurchase\TicketPurchase.csproj", "{077C26DF-547E-4ABE-909D-F468E5932ECF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketAPIContract", "TicketAPIContract\TicketAPIContract.csproj", "{01FB10C5-ECC7-492A-A84C-496DCC5B656D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketAPI", "TicketAPI\TicketAPI.csproj", "{B9B6F34D-0FF5-45E4-AAF7-72DAFE796A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refresher", "Refresher\Refresher.csproj", "{9AD39497-0410-4277-B99D-181F7F9F3842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initializer", "Initializer\Initializer.csproj", "{8AEEDFCA-C229-4523-BF66-B4BBAF4C7BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressClient", "StressClient\StressClient.csproj", "{A5E63140-F445-48A0-A74D-376A60590C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077C26DF-547E-4ABE-909D-F468E5932ECF}.Debug|x64.ActiveCfg = Debug|x64
+		{077C26DF-547E-4ABE-909D-F468E5932ECF}.Debug|x64.Build.0 = Debug|x64
+		{077C26DF-547E-4ABE-909D-F468E5932ECF}.Release|x64.ActiveCfg = Release|x64
+		{077C26DF-547E-4ABE-909D-F468E5932ECF}.Release|x64.Build.0 = Release|x64
+		{01FB10C5-ECC7-492A-A84C-496DCC5B656D}.Debug|x64.ActiveCfg = Debug|x64
+		{01FB10C5-ECC7-492A-A84C-496DCC5B656D}.Debug|x64.Build.0 = Debug|x64
+		{01FB10C5-ECC7-492A-A84C-496DCC5B656D}.Release|x64.ActiveCfg = Release|x64
+		{01FB10C5-ECC7-492A-A84C-496DCC5B656D}.Release|x64.Build.0 = Release|x64
+		{B9B6F34D-0FF5-45E4-AAF7-72DAFE796A7D}.Debug|x64.ActiveCfg = Debug|x64
+		{B9B6F34D-0FF5-45E4-AAF7-72DAFE796A7D}.Debug|x64.Build.0 = Debug|x64
+		{B9B6F34D-0FF5-45E4-AAF7-72DAFE796A7D}.Release|x64.ActiveCfg = Release|x64
+		{B9B6F34D-0FF5-45E4-AAF7-72DAFE796A7D}.Release|x64.Build.0 = Release|x64
+		{9AD39497-0410-4277-B99D-181F7F9F3842}.Debug|x64.ActiveCfg = Debug|x64
+		{9AD39497-0410-4277-B99D-181F7F9F3842}.Debug|x64.Build.0 = Debug|x64
+		{9AD39497-0410-4277-B99D-181F7F9F3842}.Release|x64.ActiveCfg = Release|x64
+		{9AD39497-0410-4277-B99D-181F7F9F3842}.Release|x64.Build.0 = Release|x64
+		{8AEEDFCA-C229-4523-BF66-B4BBAF4C7BDB}.Debug|x64.ActiveCfg = Debug|x64
+		{8AEEDFCA-C229-4523-BF66-B4BBAF4C7BDB}.Debug|x64.Build.0 = Debug|x64
+		{8AEEDFCA-C229-4523-BF66-B4BBAF4C7BDB}.Release|x64.ActiveCfg = Release|x64
+		{8AEEDFCA-C229-4523-BF66-B4BBAF4C7BDB}.Release|x64.Build.0 = Release|x64
+		{A5E63140-F445-48A0-A74D-376A60590C6A}.Debug|x64.ActiveCfg = Debug|x64
+		{A5E63140-F445-48A0-A74D-376A60590C6A}.Debug|x64.Build.0 = Debug|x64
+		{A5E63140-F445-48A0-A74D-376A60590C6A}.Release|x64.ActiveCfg = Release|x64
+		{A5E63140-F445-48A0-A74D-376A60590C6A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9857E297-98BE-4C12-923B-8EB82F612D23}
+	EndGlobalSection
+EndGlobal

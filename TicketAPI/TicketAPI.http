@@ -1,0 +1,9 @@
+@TicketAPI_HostAddress = http://localhost:5096
+
+GET {{TicketAPI_HostAddress}}/ticket/get-available
+Accept: application/json
+
+GET {{TicketAPI_HostAddress}}/try-reserve/5
+Accept: application/json
+
+###

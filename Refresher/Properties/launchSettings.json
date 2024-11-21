@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Refresher": {
+      "commandName": "Project",
+      "commandLineArgs": "\"address=localhost:7568;\""
+    }
+  }
+}

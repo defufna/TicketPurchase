@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StressClient": {
+      "commandName": "Project",
+      "commandLineArgs": "https://localhost:7077 1"
+    }
+  }
+}
